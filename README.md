@@ -12,3 +12,7 @@ My thesis subject of my 6 months internship at UNIMORE University of Modena,Ital
 In this Repository you gonna have only the Python Script, but to connect it with the robot you have to build your folder and your project regarding on the ROS documentation (https://www.ros.org/).
 That's why you can download the complete project with the zip file.
 
+<video>
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1w5VgjV3_ha-61Da7t3WNPMw6gN6Anj2m/view">
+ 
+</video>
