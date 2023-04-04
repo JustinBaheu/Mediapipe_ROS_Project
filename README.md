@@ -13,6 +13,7 @@ In this Repository you gonna have only the Python Script, but to connect it with
 That's why you can download the complete project with the zip file.
 
 <picture>
-
+ <source media="(prefers-color-scheme: dark)" srcset="C:\Users\User\Desktop\Test pilotage robot.png">
+ <source media="(prefers-color-scheme: light)" srcset="C:\Users\User\Desktop\Test pilotage robot.png">
  <img alt="Test du pilotage du robot UR10E" src="C:\Users\User\Desktop\Test pilotage robot.png">
 </picture>
